@@ -59,7 +59,7 @@ public class OpenApiConfiguration {
                                 .description("ILM CSC API Documentation")
                                 .version(getAppVersion())
                                 .license(new License()
-                                                 .name("MIT License")
+                                                 .name("Apache License, Version 2.0")
                                                  .url("https://github.com/OmniTrustILM/csc-api/blob/main/LICENSE.md"))
                                 .extensions(logoExtension)
                                 .contact(new Contact()
